@@ -2,6 +2,8 @@
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
+## 28.09.2024
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
